@@ -35,7 +35,7 @@ header {
   left: 0;
   width: 100%;     /* pleine largeur */
   padding: 15px 10%;
-  background: rgb(41, 46, 51); /* couleur du navbar */
+  background: #e8e5e54c; /* couleur du navbar */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -838,7 +838,7 @@ padding: .7rem;
 /**footer**/
 
 .footer {
-  background: #0f0f0f;
+  background: #e8e5e54c;
   color: #fff;
   padding: 60px 0 20px;
 }
